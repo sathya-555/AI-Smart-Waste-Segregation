@@ -32,3 +32,5 @@ SDG 12 - Responsible Consumption and Production
 pip install -r requirements.txt
 
 streamlit run app.py
+output link:
+https://ai-smart-waste-segregation-rwla2k9ikgmf4k8usp8ley.streamlit.app/
